@@ -1,5 +1,4 @@
-# Implementation-Analysis-of-D-flipflop-using-Cadence-EDA-Tools
-Ex No: 01     Implementation & Analysis of D-flipflop using Cadence EDA Tools   
+# Ex No: 03 Implementation-Analysis-of-D-flipflop-using-Cadence-EDA-Tools
 
 # Aim:
 To design and implement a D-flip-flop using Cadence EDA tools, simulate its behavior, and analyze key performance parameters such as timing, power consumption, and resource utilization for a comprehensive understanding of sequential logic circuits.
@@ -7,6 +6,10 @@ To design and implement a D-flip-flop using Cadence EDA tools, simulate its beha
 # Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
+
+# Circuit Diagram:
+
+![image](https://github.com/user-attachments/assets/2559a006-433a-498a-bbd9-ee027fe4cae0)
 
 # SCHEMATIC SIMULATION - 
 PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
